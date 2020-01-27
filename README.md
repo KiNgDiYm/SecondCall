@@ -1,8 +1,13 @@
-#SecondCall#
-[non relevant]
-canium.org/*
+## Second Call
+###### Relevant assets will be added here.
+###### Canium.org assets will not be relevant to gameplay from now on.
 
-[relevant]
-github.com/canium/SecondCall
+### Release log
 
+#### v.1.0.3
+---
+- adds current step
+- adds hints
 
+[TODO]: 
+- case-insensitive trigger match
